@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Exercicios {
+module MetodosemPOO {
 }
